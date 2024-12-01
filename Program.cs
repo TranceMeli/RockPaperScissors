@@ -9,9 +9,9 @@ namespace RockPaperScissors
         {
             Random random = new Random();
             bool playAgain = true;
-            String player;
-            String computer;
-            String answer;
+            string player;
+            string computer;
+            string answer;
             int playerPoints = 0;
             int computerPoints = 0;
             int rounds = 0;
